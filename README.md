@@ -1,13 +1,13 @@
 # COEN 320 – Air Traffic Monitoring and Control (ATC)
 
-## 📌 Overview
+##  Overview
 This project implements a **real-time Air Traffic Monitoring and Control (ATC) system** in **C++** using **QNX Momentics**.  
 It simulates radar tracking, collision detection, operator commands, and communication between subsystems via **multithreading** and **client-server architecture**.  
 The system ensures safe aircraft separation and maintains an updated view of the airspace.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Real-time aircraft tracking** using radar input
 - **Collision prediction & alerts** (within 3 minutes of violation)
 - **Operator console** to:
@@ -20,7 +20,7 @@ The system ensures safe aircraft separation and maintains an updated view of the
 
 ---
 
-## 🛠️ System Architecture
+## 🛠 System Architecture
 The ATC system consists of six main subsystems:
 
 1. **Aircraft** – Simulates each aircraft’s movement and responds to commands.
@@ -34,7 +34,7 @@ The ATC system consists of six main subsystems:
 
 ---
 
-## 💻 Implementation Details
+##  Implementation Details
 - **Language:** C++
 - **Platform:** QNX Momentics IDE
 - **Key Concepts:**
