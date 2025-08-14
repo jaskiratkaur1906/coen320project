@@ -47,3 +47,7 @@ The ATC system consists of six main subsystems:
 
 ---
 
+## 👥 Team Members
+- **Anna Bui** 
+- **Jaskirat Kaur** 
+- **William Au** 
